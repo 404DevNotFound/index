@@ -1,0 +1,1 @@
+changeRow(1, rank12.gen, rank12.army, rank12.fac, rank12.batt, rank12.vict, rank12.minorVic, rank12.los, rank12.armyPt, rank12.glory);

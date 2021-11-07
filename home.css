@@ -1,0 +1,112 @@
+
+h1 {
+    /* background-color:rgba(65, 31, 31, 0.65); */
+    color: wheat;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 45px;
+}
+
+
+
+h2 {
+    color: black;
+    text-align: center;
+    align-content: center;
+    text-shadow: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 22px;
+}
+
+body.flesheaters {
+    background-image: url(imgs/bkgr/flesheaterscourt2.jpg);
+    background-size:cover;
+    /* background-repeat: no-repeat; */
+    background-attachment:scroll;
+}
+
+
+body {
+    background-image: url(imgs/bkgr/landscape.jpg);
+    background-size:cover;
+    color: lightgray;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+table.title {
+    border: 5px solid brown;
+    color:wheat;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+table.menu {
+    border: 3px solid brown;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+table{
+    background-image: url(imgs/bkgr/woodenScoreboard.jpg);
+}
+
+table.scoreboard {
+    border: 5px solid brown;
+    width:100%;
+}
+
+th.scoreboard, td.scoreboard {
+    background:rgba(0, 0, 0, 0.65);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 45px;
+}
+
+tr.goback, th.goback {
+    width: 150px;
+    height: 30px;
+}
+
+table.description, th.description, td.description{
+    background-color: rgba(0, 0, 0, 0.7);
+    width: 80%;
+    color: lightgray;
+    font-size: 18px;
+}
+
+
+table, th, td {
+    /*background-color: rgba(65, 31, 31, 0.65);*/
+    /* background-image: url(imgs/bkgr/woodenScoreboard.jpg); */
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 3px solid brown;
+    text-align: center;
+    background-color:rgba(0, 0, 0, 0.8);
+}
+
+th {
+    /* background-image: url(imgs/bkgr/woodenScoreboard.jpg); */
+    background-color:rgba(0, 0, 0, 0.7);
+    height:max-content;
+    width:600px;
+    color: wheat;
+    font-size: 22px;
+    border: 1px solid rgba(218, 165, 32, 0.7);
+    
+}
+
+td {
+    border: 1px solid rgba(218, 165, 32, 0.7);
+    height:max-content;
+    width: max-content;
+    color:lightgray;
+    background-color:rgba(0, 0, 0, 0.6);
+    
+}
+
+a {
+    font-size: 18px;
+    color: rgb(176, 199, 223);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
